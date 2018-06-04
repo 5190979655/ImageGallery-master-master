@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_f39057f005c4d29b23e7d0c5a6619add8df223c9.jar" />
+    </item>
+    <item
+        jar="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_6fae2951478aabdd4061cffee3db8df58320a39b.jar" />
+    </item>
+    <item
+        jar="C:\Users\程梦义\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_762d140627f3d69a9d494671a44cba4426c5f4e4.jar" />
+    </item>
+    <item
+        jar="D:\pcsoft\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_34ae54d6a11b9bc04712ec38e903e211f32d2fcb.jar" />
+    </item>
+    <item
+        jar="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\WorkFile\ImageGallery-master-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_9ea231809ba1663587288df0d338d44af721fbb6.jar" />
+    </item>
+
+</items>
